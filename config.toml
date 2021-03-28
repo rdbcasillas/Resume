@@ -1,0 +1,304 @@
+# Page settings
+
+baseURL = "http://example.org/"
+languageCode = "en"
+title = ""
+theme = "hugo-devresume-theme"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+
+
+
+
+
+[params]
+    author = "Vatsal Mehra"
+    description = "Vatsal's Resume"
+
+
+    primaryColor = "#54B689"
+    textPrimaryColor = "#292929"
+
+
+
+
+    [params.profile]
+        enable = true
+        name = "Vatsal Mehra"
+        tagline = "Bioinformatician and Software Developer"
+        avatar = "mypic.png"
+
+
+
+
+
+
+
+    [params.contact]
+        enable = true
+        location = "India"
+
+        [[params.contact.list]]
+        icon = "fas fa-envelope-square"
+        url = "mailto:#"
+        text = "mehra.vatsal@gmail.com"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "#"
+        text = "www.vatsalmehra.com"
+
+
+
+
+
+
+
+    [params.skills]
+        enable = true
+
+        [[params.skills.list]]
+        title = "Coding"
+        [[params.skills.list.items]]
+        details = "JavaScript/VueJS"
+        [[params.skills.list.items]]
+        details = "Python"
+        [[params.skills.list.items]]
+        details = "HTML5/CSS/Bootstrap/Jquery"
+        [[params.skills.list.items]]
+        details = "d3 (data driven documents)"
+        [[params.skills.list.items]]
+        details = "Node.js/ExpressJS/Flask"
+        [[params.skills.list.items]]
+        details = "MySQL/MongoDB"
+        [[params.skills.list.items]]
+        details = "R"
+        [[params.skills.list.items]]
+        details = "Bash Shell Scripting/Awk/Sed"
+        [[params.skills.list.items]]
+        details = "Git/Mercurial"
+
+        [[params.skills.list]]
+        title = "Bioinformatics/Machine Learning"
+        [[params.skills.list.items]]
+        details = "NGS pipelines (DNA-Seq, RNA-Seq, ATAC-Seq)"
+        [[params.skills.list.items]]
+        details = "Biopython"
+        [[params.skills.list.items]]
+        details = "Bioconductor"
+        [[params.skills.list.items]]
+        details = "Scikit-learn"
+
+
+
+
+
+
+
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "MSc in Bioinformatics"
+        university = "Marquette University"
+        dates = "2014 - 2016"
+        [[params.education.list]]
+        degree = "BTech Computer Engineering"
+        university = "NMIMS"
+        dates = "2006 - 2010"
+
+
+
+
+
+
+
+
+    [params.awards]
+        enable = false
+
+        [[params.awards.list]]
+        name = "Award Lorem Ipsum"
+        body = "Microsoft lorem ipsum"
+        date = "2019"
+        [[params.awards.list]]
+        name = "Award Donec Sodales"
+        body = "Oracle Aenean"
+        date = "2017"
+
+
+
+
+
+
+
+
+    [params.languages]
+        enable = false
+
+        [[params.languages.list]]
+        name = "English"
+        level = "Native"
+        [[params.languages.list]]
+        name = "Spanish"
+        level = "Professional"
+
+
+
+
+
+
+
+
+    [params.interests]
+        enable = true
+
+        [[params.interests.list]]
+        name = "Writing"
+        [[params.interests.list]]
+        name = "Podcasting" 
+        [[params.interests.list]]
+        name = "Music Production"
+
+
+
+
+
+
+
+
+    [params.summary]
+        enable = true
+        text = "Bioinformatician and a Software Developer with over 7 years of experience specializing in NGS pipelines, web development and data visualization. Skilled at delivering interactive tools for researchers, that provide novel insights in health sector and biomedical science. Adept at learning new technologies autodidactically and flexible with different tech stacks. Loves writing and podcasting."
+
+
+
+
+
+
+
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "Bioinformatician"
+        dates = "Dec 2019 - Jan 2021"
+        company = "Marquette University"
+        details = "As a solo developer for a lab trying to cure spinal cord injury, I designed and developed multiple bioinformatics piplines and web tools that provide novel insights in genetic and epigenetic regulation behind axon growth. "
+        [[params.experience.list.items]]
+        details = "Developed bioinformatics pipelines that discovered novel transcription factor combinations regulating axon growth."
+        [[params.experience.list.items]]
+        details = "Created a web tool that allows scientists to visualize ATAC-Seq, RNA-seq and Histone Chip-Seq datasets across different time points in development of mice."
+        [[params.experience.list.items]]
+        details = "Developed a website that visualizes and quantifies supra spinal neurons with projections to the cervical, thoracic and lumbar segments."
+
+        [[params.experience.list]]
+        title = "Programmer Analyst"
+        dates = "April 2018 - July 2018"
+        company = "Medical College of Wisconsin"
+        details = "Developed a tool for the Rat Genome database that provides a unique way to seamlessly visualize and perform set operations on lists of genes."
+
+        [[params.experience.list]]
+        title = "Bioinformatics Support Analyst"
+        dates = "Oct 2016 - March 2018"
+        company = "Blood Center of Wisconsin"
+        details = ""
+        [[params.experience.list.items]]
+        details = "Developed web-based tools using the Flask framework, that automate and simplify the Bioinformatics workflow of Molecular Diagnostics Lab"
+        [[params.experience.list.items]]
+        details = "Human clinical genomics - Monitored NGS workflow, develop variant calling and variant annotation pipelines"
+        [[params.experience.list.items]]
+        details = "Designed and created an interactive web tool VIRAS, that provides a graphical view to analyze nucleotide mismatches between patients 10.1016/j.bbmt.2018.12.006 "
+        [[params.experience.list.items]]
+        details = "Developed data visualization tools using d3.js to help investigators analyze NGS workflow and patient report data"
+
+        [[params.experience.list]]
+        title = "Consultant Bioinformatician"
+        dates = "May 2016 - Oct 2016"
+        company = "Marquette Univeristy"
+        details = "Developed custom shell scripts that automate RNA-Seq, and ChIP-Seq workflows"
+
+        [[params.experience.list]]
+        title = "Research Assistant"
+        dates = "Aug 2015 - May 2016"
+        company = "Marqutte University"
+        details = "Designed & developed SNPredict, a tool that predicts rare somatic variants using multiple machine learning training algorithms like kNN & LinearSVC"
+
+        [[params.experience.list]]
+        title = "Software Enginner"
+        dates = "Aug 2010 - Nov 2013"
+        company = "Tech Mahindra"
+        details = "Lead production support duties. Designed, coded and maintained Bash shell scripts to automate tasks for checking and updating status of AT&T servers."
+
+
+    [params.projects]
+        enable = true
+
+        [[params.projects.list]]
+        title = "<a href='https://mousebraindev.com'>Mouse Brain Dev DB</a>"
+        meta = "Open Source"
+        tagline = "interactive visualizations to gain novel insights from time series NGS experiments on murine whole cortex"
+
+        [[params.projects.list]]
+        title = "<a href='https://3dmousebrain.com'>3d mouse brain</a>"
+        meta = "Open Source"
+        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+
+        [[params.projects.list]]
+        title = "<a href='https://open.spotify.com/show/79oICYy7ndxZIrQQWunirp'>Cerebral podcast</a>"
+        meta = "Open Source"
+        tagline = "A podcast that discusses human biases to better understand and improve human thinking/decision making"
+
+
+
+
+
+
+
+
+
+
+    [params.information]
+        enable = true
+
+        [[params.information.list]]
+        title = ""
+        [[params.information.list.items]]
+        details = "2021 · [Co-occupancy analysis reveals novel transcriptional synergies for axon growth](https://www.biorxiv.org/content/10.1101/2020.06.12.146159v2)"
+        [[params.information.list.items]]
+        details = "2018 · [Developmental chromatin restriction of pro-growth gene networks acts as an epigenetic barrier to axon regeneration in cortical neurons](https://www.biorxiv.org/content/10.1101/259408v1)"
+        [[params.information.list.items]]
+        details = "2018 · [KLF6 and STAT3 co-occupy regulatory DNA and functionally synergize to promote axon growth in CNS neurons](https://www.nature.com/articles/s41598-018-31101-5)"
+        [[params.information.list.items]]
+        details = "2018 · [Direct HLA Genetic Comparisons Identify Highly Matched Unrelated Donor-Recipient Pairs with Improved Transplantation Outcome](https://pubmed.ncbi.nlm.nih.gov/30537549/)"
+
+        [[params.information.list]]
+        title = "Other Academic Interests"
+        details = "Educational Psychology, Learning Theory, Evolutionary Biology, Cognitive Science, Heuristics and Biases"
+
+
+
+
+
+
+
+
+    [params.social]
+        enable = true
+
+        [[params.social.list]]
+        icon = "fab fa-github-square"
+        url = "//github.com/rdbcasillas"
+        title = "rdbcasillas"
+#        [[params.social.list]]
+#        icon = "fab fa-linkedin"
+#        url = "//linkedin.com/in/username"
+#        title = "username"
+#        [[params.social.list]]
+#        icon = "fab fa-twitter-square"
+#        url = "//twitter.com/username"
+#        title = "@username"
+
+    [params.footer]
+        copyright = ""
