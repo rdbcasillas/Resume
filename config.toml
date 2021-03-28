@@ -1,6 +1,7 @@
 # Page settings
 
-baseURL = "http://example.org/"
+baseURL = ""
+relativeURLs = "True"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
@@ -238,12 +239,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list]]
         title = "<a href='https://mousebraindev.com'>Mouse Brain Dev DB</a>"
         meta = "Open Source"
-        tagline = "interactive visualizations to gain novel insights from time series NGS experiments on murine whole cortex"
+        tagline = "Interactive visualizations to gain novel insights from time series NGS experiments on murine whole cortex"
 
         [[params.projects.list]]
         title = "<a href='https://3dmousebrain.com'>3d mouse brain</a>"
         meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        tagline = "3d visualization and quantification of supra spinal neurons with projections to the cervical, thoracic and lumbar segments."
 
         [[params.projects.list]]
         title = "<a href='https://open.spotify.com/show/79oICYy7ndxZIrQQWunirp'>Cerebral podcast</a>"
