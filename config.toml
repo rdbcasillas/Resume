@@ -100,11 +100,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.education.list]]
-        degree = "MSc in Bioinformatics"
+        degree = "MS in Bioinformatics"
         university = "Marquette University"
         dates = "2014 - 2016"
         [[params.education.list]]
-        degree = "BTech Computer Engineering"
+        degree = "B.Tech Computer Engineering"
         university = "NMIMS"
         dates = "2006 - 2010"
 
@@ -159,7 +159,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.interests.list]]
         name = "Podcasting" 
         [[params.interests.list]]
-        name = "Music Production"
+        name = "Electronic Music Production"
 
 
 
@@ -170,7 +170,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "Bioinformatician and a Software Developer with over 7 years of experience specializing in NGS pipelines, web development and data visualization. Skilled at delivering interactive tools for researchers, that provide novel insights in health sector and biomedical science. Adept at learning new technologies autodidactically and flexible with different tech stacks. Loves writing and podcasting."
+        text = "Bioinformatician and a Software Developer with over 7 years of experience specializing in NGS pipelines, web development and data visualization. Skilled at delivering interactive tools for researchers, that provide novel insights in healthcare sector and biomedical sciences. Adept at learning new technologies autodidactically and flexible with different tech stacks. Loves [writing](http://rdbcasillas.github.io) and [podcasting](https://open.spotify.com/show/79oICYy7ndxZIrQQWunirp)."
 
 
 
@@ -237,7 +237,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.projects.list]]
-        title = "<a href='https://mousebraindev.com'>Mouse Brain Dev DB</a>"
+        title = "<a href='https://mousebraindev.com'>Mouse Brain Development DB</a>"
         meta = "Open Source"
         tagline = "Interactive visualizations to gain novel insights from time series NGS experiments on murine whole cortex"
 
@@ -266,13 +266,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list]]
         title = ""
         [[params.information.list.items]]
-        details = "2021 · [Co-occupancy analysis reveals novel transcriptional synergies for axon growth](https://www.biorxiv.org/content/10.1101/2020.06.12.146159v2)"
+        details = "2021 · [Co-occupancy analysis reveals novel transcriptional synergies for axon growth](https://www.biorxiv.org/content/10.1101/2020.06.12.146159v2) ***Nature Communications (in press)***"
         [[params.information.list.items]]
-        details = "2018 · [Developmental chromatin restriction of pro-growth gene networks acts as an epigenetic barrier to axon regeneration in cortical neurons](https://www.biorxiv.org/content/10.1101/259408v1)"
+        details = "2018 · [Developmental chromatin restriction of pro-growth gene networks acts as an epigenetic barrier to axon regeneration in cortical neurons](https://www.biorxiv.org/content/10.1101/259408v1) ***Dev. Neurobiology***"
         [[params.information.list.items]]
-        details = "2018 · [KLF6 and STAT3 co-occupy regulatory DNA and functionally synergize to promote axon growth in CNS neurons](https://www.nature.com/articles/s41598-018-31101-5)"
+        details = "2018 · [KLF6 and STAT3 co-occupy regulatory DNA and functionally synergize to promote axon growth in CNS neurons](https://www.nature.com/articles/s41598-018-31101-5) ***Scientific Reports***"
         [[params.information.list.items]]
-        details = "2018 · [Direct HLA Genetic Comparisons Identify Highly Matched Unrelated Donor-Recipient Pairs with Improved Transplantation Outcome](https://pubmed.ncbi.nlm.nih.gov/30537549/)"
+        details = "2018 · [Direct HLA Genetic Comparisons Identify Highly Matched Unrelated Donor-Recipient Pairs with Improved Transplantation Outcome](https://pubmed.ncbi.nlm.nih.gov/30537549/) ***Biology of Blood and Marrow Transplantation***"
 
         [[params.information.list]]
         title = "Other Academic Interests"
