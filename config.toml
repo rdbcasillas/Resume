@@ -160,6 +160,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         name = "Podcasting" 
         [[params.interests.list]]
         name = "Electronic Music Production"
+        [[params.interests.list]]
+        name = "Tennis"
 
 
 
