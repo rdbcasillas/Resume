@@ -27,7 +27,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         name = "Vatsal Mehra"
         tagline = "Bioinformatician and Software Developer"
-        avatar = "mypic.png"
+        avatar = "mypic.jpeg"
 
 
 
@@ -41,7 +41,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "mailto:#"
+        url = "mailto:mehra.vatsal@gmail.com"
         text = "mehra.vatsal@gmail.com"
         [[params.contact.list]]
         icon = "fas fa-globe"
@@ -188,7 +188,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Bioinformatician"
         dates = "Dec 2019 - Jan 2021"
         company = "Marquette University"
-        details = "As a solo developer for a lab trying to cure spinal cord injury, I designed and developed multiple bioinformatics piplines and web tools that provide novel insights in genetic and epigenetic regulation behind axon growth. "
+        details = "As the solo developer for a lab trying to cure spinal cord injury, I designed and developed multiple bioinformatics piplines and web tools that provide novel insights in genetic and epigenetic regulation behind axon growth. "
         [[params.experience.list.items]]
         details = "Developed bioinformatics pipelines that discovered novel transcription factor combinations regulating axon growth."
         [[params.experience.list.items]]
@@ -245,7 +245,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.projects.list]]
         title = "<a href='https://3dmousebrain.com'>3d mouse brain</a>"
-        meta = "Open Source"
+        meta = ""
         tagline = "3d visualization and quantification of supra spinal neurons with projections to the cervical, thoracic and lumbar segments."
 
         [[params.projects.list]]
@@ -270,7 +270,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list.items]]
         details = "2021 · [Co-occupancy analysis reveals novel transcriptional synergies for axon growth](https://www.biorxiv.org/content/10.1101/2020.06.12.146159v2) ***Nature Communications (in press)***"
         [[params.information.list.items]]
-        details = "2018 · [Developmental chromatin restriction of pro-growth gene networks acts as an epigenetic barrier to axon regeneration in cortical neurons](https://www.biorxiv.org/content/10.1101/259408v1) ***Dev. Neurobiology***"
+        details = "2018 · [Developmental chromatin restriction of pro-growth gene networks acts as an epigenetic barrier to axon regeneration in cortical neurons](https://www.biorxiv.org/content/10.1101/259408v1) ***Developmental Neurobiology***"
         [[params.information.list.items]]
         details = "2018 · [KLF6 and STAT3 co-occupy regulatory DNA and functionally synergize to promote axon growth in CNS neurons](https://www.nature.com/articles/s41598-018-31101-5) ***Scientific Reports***"
         [[params.information.list.items]]
