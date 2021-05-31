@@ -231,7 +231,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list]]
         title = "Software Enginner"
         dates = "Aug 2010 - Nov 2013"
-        company = "Tech Mahindra"
+        company = "Tech Mahindra, India"
         details = "Lead production support duties. Designed, coded and maintained Bash shell scripts to automate tasks for checking and updating status of AT&T servers."
 
 
@@ -268,7 +268,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list]]
         title = ""
         [[params.information.list.items]]
-        details = "2021 · [Co-occupancy analysis reveals novel transcriptional synergies for axon growth](https://www.biorxiv.org/content/10.1101/2020.06.12.146159v2) ***Nature Communications (in press)***"
+        details = "2021 · [Co-occupancy identifies transcription factor co-operation for axon growth](https://www.nature.com/articles/s41467-021-22828-3) ***Nature Communications***"
         [[params.information.list.items]]
         details = "2018 · [Developmental chromatin restriction of pro-growth gene networks acts as an epigenetic barrier to axon regeneration in cortical neurons](https://www.biorxiv.org/content/10.1101/259408v1) ***Developmental Neurobiology***"
         [[params.information.list.items]]
