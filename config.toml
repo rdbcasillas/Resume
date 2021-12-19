@@ -62,7 +62,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "JavaScript/VueJS"
         [[params.skills.list.items]]
-        details = "Python"
+        details = "Python/Jupyter/Scikit-learn"
         [[params.skills.list.items]]
         details = "HTML5/CSS/Bootstrap/Jquery"
         [[params.skills.list.items]]
@@ -70,13 +70,15 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Node.js/ExpressJS/Flask"
         [[params.skills.list.items]]
-        details = "MySQL/MongoDB"
+        details = "MySQL/Redis/MongoDB"
         [[params.skills.list.items]]
-        details = "R"
+        details = "R/Bioconductor"
         [[params.skills.list.items]]
-        details = "Bash Shell Scripting/Awk/Sed"
+        details = "Shell Scripting/Awk/Sed"
         [[params.skills.list.items]]
         details = "Git/Mercurial"
+        [[params.skills.list.items]]
+        details = "Nginx/Apache"
 
         [[params.skills.list]]
         title = "Bioinformatics/Machine Learning"
