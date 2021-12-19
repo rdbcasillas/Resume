@@ -58,27 +58,40 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.skills.list]]
-        title = "Coding"
+        title = "Full Stack"
         [[params.skills.list.items]]
         details = "JavaScript/VueJS"
         [[params.skills.list.items]]
-        details = "Python/Jupyter/Scikit-learn"
+        details = "Python/Flask"
         [[params.skills.list.items]]
         details = "HTML5/CSS/Bootstrap/Jquery"
         [[params.skills.list.items]]
         details = "d3 (data driven documents)"
         [[params.skills.list.items]]
-        details = "Node.js/ExpressJS/Flask"
+        details = "Node.js/ExpressJS"
         [[params.skills.list.items]]
         details = "MySQL/Redis/MongoDB"
         [[params.skills.list.items]]
-        details = "R/Bioconductor"
+        details = "Docker/Kubernetes"
+        [[params.skills.list.items]]
+        details = "REST/GraphQL API"
+        [[params.skills.list.items]]
+        details = "R"
         [[params.skills.list.items]]
         details = "Shell Scripting/Awk/Sed"
         [[params.skills.list.items]]
         details = "Git/Mercurial"
         [[params.skills.list.items]]
         details = "Nginx/Apache"
+
+        [[params.skills.list]]
+        title = "2D/3D Visualization"
+        [[params.skills.list.items]]
+        details = "d3.js/Observable"
+        [[params.skills.list.items]]
+        details = "Plotly/Matplotlib/ggplot"
+        [[params.skills.list.items]]
+        details = "Three.js"
 
         [[params.skills.list]]
         title = "Bioinformatics/Machine Learning"
@@ -90,7 +103,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Bioconductor"
         [[params.skills.list.items]]
         details = "Scikit-learn"
-
 
 
 
