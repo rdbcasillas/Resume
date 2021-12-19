@@ -184,6 +184,16 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.experience]
         enable = true
 
+	[[params.experience.list]]
+        title = "Data Scientist"
+        dates = "Aug 2021 - Present"
+        company = "Indx.Ai"
+        details = "Building a webapp that performs NGS analysis on Cancer data sets and provides an interactive UI for oncologists to aid in discovery of appropriate therapies for their patients "
+        [[params.experience.list.items]]
+        details = "Designing interactive front-end in VueJS with a role based user interface."
+        [[params.experience.list.items]]
+        details = "Designing backend in NodeJS and Redis for performing bioinformatics pipelines and storing user data."
+
         [[params.experience.list]]
         title = "Bioinformatician"
         dates = "Dec 2019 - Jan 2021"
