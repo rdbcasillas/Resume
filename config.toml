@@ -169,13 +169,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.interests.list]]
-        name = "Writing"
+        name = "Writing Nonfiction"
         [[params.interests.list]]
         name = "Podcasting" 
         [[params.interests.list]]
-        name = "Electronic Music Production"
+        name = "Teaching"
         [[params.interests.list]]
-        name = "Tennis"
+        name = "Electronic Music Production"
 
 
 
@@ -202,11 +202,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Data Scientist"
         dates = "Aug 2021 - Present"
         company = "Indx.Ai"
-        details = "Building a webapp that performs NGS analysis on Cancer data sets and provides an interactive UI for oncologists to aid in discovery of appropriate therapies for their patients "
-        [[params.experience.list.items]]
-        details = "Designing interactive front-end in VueJS with a role based user interface."
-        [[params.experience.list.items]]
-        details = "Designing backend in NodeJS and Redis for performing bioinformatics pipelines and storing user data."
+        details = "Building a webapp that discovers/annotates rare mutations in cancer patients and provides an interactive UI for oncologists to track patients and discover appropriate treatments."
 
         [[params.experience.list]]
         title = "Bioinformatician"
@@ -274,8 +270,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.projects.list]]
         title = "<a href='https://open.spotify.com/show/79oICYy7ndxZIrQQWunirp'>Cerebral podcast</a>"
-        meta = "Open Source"
+        meta = ""
         tagline = "A podcast that discusses human biases to better understand and improve human thinking/decision making"
+
+        [[params.projects.list]]
+        title = "<a href='https://hyperlink.academy/courses/introduction-to-applied-rationality/54'>Introduction To Applied Rationality</a>"
+        meta = ""
+        tagline = "A course/club designed for exploring different frameworks and techniques to achieve what we most want, given the physical and mental resources available to us."
 
 
 
@@ -299,7 +300,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "2018 · [KLF6 and STAT3 co-occupy regulatory DNA and functionally synergize to promote axon growth in CNS neurons](https://www.nature.com/articles/s41598-018-31101-5) ***Scientific Reports***"
         [[params.information.list.items]]
         details = "2018 · [Direct HLA Genetic Comparisons Identify Highly Matched Unrelated Donor-Recipient Pairs with Improved Transplantation Outcome](https://pubmed.ncbi.nlm.nih.gov/30537549/) ***Biology of Blood and Marrow Transplantation***"
-
         [[params.information.list]]
         title = "Other Academic Interests"
         details = "Educational Psychology, Learning Theory, Evolutionary Biology, Cognitive Science, Heuristics and Biases"
