@@ -87,9 +87,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "2D/3D Visualization"
         [[params.skills.list.items]]
-        details = "d3.js/Observable"
+        details = "d3.js/Observable/Vega"
         [[params.skills.list.items]]
-        details = "Plotly/Matplotlib/ggplot"
+        details = "Plotly/ggplot"
         [[params.skills.list.items]]
         details = "Three.js"
 
