@@ -37,7 +37,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.contact]
         enable = true
-        location = "India"
+        location = "Hyderabad, India"
 
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
@@ -186,7 +186,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "Bioinformatician and a Software Developer with over 7 years of experience specializing in NGS pipelines, web development and data visualization. Skilled at delivering interactive tools for researchers, that provide novel insights in healthcare sector and biomedical sciences. Adept at learning new technologies autodidactically and flexible with different tech stacks. Loves [writing](http://rdbcasillas.github.io) and [podcasting](https://open.spotify.com/show/79oICYy7ndxZIrQQWunirp)."
+        text = "Bioinformatician and a Software Developer with over 7 years of experience specializing in NGS pipelines, web development and data visualization. Skilled at delivering interactive tools for researchers, that provide novel insights in healthcare sector and biomedical sciences. Adept at learning new technologies autodidactically and flexible with different tech stacks. Loves [writing](http://rdbcasillas.github.io), [podcasting](https://open.spotify.com/show/79oICYy7ndxZIrQQWunirp) and [teaching rationality](https://year-one.hyperlink.academy/courses/introduction-to-applied-rationality/54)."
 
 
 
@@ -203,6 +203,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
         dates = "Aug 2021 - Present"
         company = "Indx.Ai"
         details = "Building a webapp that discovers/annotates rare mutations in cancer patients and provides an interactive UI for oncologists to track patients and discover appropriate treatments."
+        [[params.experience.list.items]]
+        details = "Managing a team of developers and bioinformaticians across multiple projects."
+        [[params.experience.list.items]]
+        details = "Designing interactive user interfaces and robust backend pipelines for flagship products like OncoDx and OncoPredict."
 
         [[params.experience.list]]
         title = "Bioinformatician"
@@ -293,6 +297,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list]]
         title = ""
         [[params.information.list.items]]
+        details = "2022 · [Brain-wide analysis of the supraspinal connectome reveals anatomical correlates to functional recovery after spinal injury](https://elifesciences.org/articles/76254) ***eLife***"
+        [[params.information.list.items]]
         details = "2021 · [Co-occupancy identifies transcription factor co-operation for axon growth](https://www.nature.com/articles/s41467-021-22828-3) ***Nature Communications***"
         [[params.information.list.items]]
         details = "2018 · [Developmental chromatin restriction of pro-growth gene networks acts as an epigenetic barrier to axon regeneration in cortical neurons](https://www.biorxiv.org/content/10.1101/259408v1) ***Developmental Neurobiology***"
@@ -302,7 +308,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "2018 · [Direct HLA Genetic Comparisons Identify Highly Matched Unrelated Donor-Recipient Pairs with Improved Transplantation Outcome](https://pubmed.ncbi.nlm.nih.gov/30537549/) ***Biology of Blood and Marrow Transplantation***"
         [[params.information.list]]
         title = "Other Academic Interests"
-        details = "Educational Psychology, Learning Theory, Evolutionary Biology, Cognitive Science, Heuristics and Biases"
+        details = "Rationality, Educational Psychology, Effective Altruism, Evolutionary Biology, Cognitive Science"
 
 
 
