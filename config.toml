@@ -269,17 +269,23 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.projects.list]]
         title = "<a href='https://3dmousebrain.com'>3d mouse brain</a>"
-        meta = ""
+        meta = "Open Source"
         tagline = "3d visualization and quantification of supra spinal neurons with projections to the cervical, thoracic and lumbar segments."
+
+
+        [[params.projects.list]]
+        title = "<a href='https://hyperlink.academy/courses/introduction-to-applied-rationality/54'>Teach Me A Bias</a>"
+        meta = "Under Active Development"
+        tagline = "A place to learn about different cognitive biases and how to overcome them."
 
         [[params.projects.list]]
         title = "<a href='https://open.spotify.com/show/79oICYy7ndxZIrQQWunirp'>Cerebral podcast</a>"
-        meta = ""
+        meta = "Inactive"
         tagline = "A podcast that discusses human biases to better understand and improve human thinking/decision making"
 
         [[params.projects.list]]
         title = "<a href='https://hyperlink.academy/courses/introduction-to-applied-rationality/54'>Introduction To Applied Rationality</a>"
-        meta = ""
+        meta = "Course"
         tagline = "A course/club designed for exploring different frameworks and techniques to achieve what we most want, given the physical and mental resources available to us."
 
 
