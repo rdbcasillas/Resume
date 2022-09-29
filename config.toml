@@ -169,11 +169,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.interests.list]]
+        name = "Science Communication"
+        [[params.interests.list]]
         name = "Writing Nonfiction"
         [[params.interests.list]]
         name = "Podcasting" 
         [[params.interests.list]]
-        name = "Teaching"
+        name = "Teaching Rationality"
         [[params.interests.list]]
         name = "Electronic Music Production"
 
