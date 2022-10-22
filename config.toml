@@ -173,7 +173,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.interests.list]]
         name = "Writing Nonfiction"
         [[params.interests.list]]
-        name = "Podcasting" 
+        name = "Podcasting"
         [[params.interests.list]]
         name = "Teaching Rationality"
         [[params.interests.list]]
@@ -212,7 +212,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.experience.list]]
         title = "Bioinformatician"
-        dates = "Dec 2019 - Jan 2021"
+        dates = "Dec 2018 - Jan 2021"
         company = "Marquette University"
         details = "As the solo developer for a lab trying to cure spinal cord injury, I designed and developed multiple bioinformatics piplines and web tools that provide novel insights in genetic and epigenetic regulation behind axon growth. "
         [[params.experience.list.items]]
