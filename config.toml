@@ -201,14 +201,21 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
 	[[params.experience.list]]
+        title = "Product Manager"
+        dates = "Nov 2022 - Present"
+        company = "Indx.Ai"
+        details = "Building the iCare platform for oncologists to help them understand mutational profile of their patients and suggest appropriate therapy for cancer treatment."
+        [[params.experience.list.items]]
+        details = "Spearheading a team of software developers and bioinformaticians across multiple smaller projects within iCare."
+        [[params.experience.list.items]]
+        details = "Designing interactive user interfaces and robust bioinformatics pipelines for flagship products like OncoDx and OncoPredikt."
+
+
+	[[params.experience.list]]
         title = "Data Scientist"
         dates = "Aug 2021 - Present"
         company = "Indx.Ai"
         details = "Building a webapp that discovers/annotates rare mutations in cancer patients and provides an interactive UI for oncologists to track patients and discover appropriate treatments."
-        [[params.experience.list.items]]
-        details = "Managing a team of developers and bioinformaticians across multiple projects."
-        [[params.experience.list.items]]
-        details = "Designing interactive user interfaces and robust backend pipelines for flagship products like OncoDx and OncoPredict."
 
         [[params.experience.list]]
         title = "Bioinformatician"
