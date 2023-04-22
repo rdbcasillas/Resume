@@ -27,7 +27,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         name = "Vatsal Mehra"
         tagline = "Bioinformatician and Software Developer"
-        avatar = "mypic.jpeg"
+        avatar = "mypic.jpg"
 
 
 
@@ -297,6 +297,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         meta = "Course"
         tagline = "A course/club designed for exploring different frameworks and techniques to achieve what we most want, given the physical and mental resources available to us."
 
+
+        [[params.projects.list]]
+        title = "Hyderabad Rationality Meetup"
+        meta = "Meetup"
+        tagline = "A bi-weekly meetup that explores the depths of rational thinking with a focus on systematically improving epistemic and instrumental rationality skills. <a href='https://www.lesswrong.com/posts/RcZCwxFiZzE6X7nsv/what-do-we-mean-by-rationality-1' target='_blank'>See here</a> for a definition of rationality we like to work with."
 
 
 
