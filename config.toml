@@ -188,7 +188,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "Bioinformatician and a Software Developer with over 10 years of experience specializing in NGS pipelines, web development and data visualization. Skilled at delivering interactive tools for researchers, that provide novel insights in healthcare sector and biomedical sciences. Adept at learning new technologies autodidactically and flexible with different tech stacks. Loves [writing](http://rdbcasillas.github.io), [podcasting](https://open.spotify.com/show/79oICYy7ndxZIrQQWunirp) and [teaching rationality](https://year-one.hyperlink.academy/courses/introduction-to-applied-rationality/54). If you are interested in a coaching/therapy session, please schedule a spot [here](https://calendly.com/vatsalmehra/60-min-chat)."
+        text = """Bioinformatician and a Software Developer with over 10 years of experience specializing in NGS pipelines, web development and data visualization. Skilled at delivering interactive tools for researchers, that provide novel insights in healthcare sector and biomedical sciences. Adept at learning new technologies autodidactically and flexible with different tech stacks. Loves [writing](http://rdbcasillas.github.io), [podcasting](https://open.spotify.com/show/79oICYy7ndxZIrQQWunirp) and [teaching rationality](https://year-one.hyperlink.academy/courses/introduction-to-applied-rationality/54). 
+        Occassionally, I also work with people directly to help with their personal and professional issues using numerous [instrumental rationality](https://www.lesswrong.com/posts/RcZCwxFiZzE6X7nsv/what-do-we-mean-by-rationality-1) techniques and frameworks (see projects section below for an overview of my public work). If you are interested in a coaching/career counselling session, please schedule a spot [here](https://calendly.com/vatsalmehra/60-min-chat)."""
 
 
 
