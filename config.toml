@@ -284,7 +284,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
         [[params.projects.list]]
-        title = "<a href='stupefied-kepler-c3f8f3.netlify.app'>Teach Me A Bias</a>"
+        title = "<a href='https://stupefied-kepler-c3f8f3.netlify.app'>Teach Me A Bias</a>"
         meta = "Under Active Development"
         tagline = "A place to learn about different cognitive biases and how to overcome them."
 
