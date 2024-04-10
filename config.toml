@@ -203,8 +203,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 	[[params.experience.list]]
         title = "Product Manager"
-        dates = "Nov 2022 - Present"
-        company = "Indx.Ai"
+        dates = "Nov 2022 - Feb 2024"
+        company = "Indx.Ai/OneCell Diagnostics"
         details = "Building the iCare platform for oncologists to help them understand mutational profile of their patients and suggest appropriate therapy for cancer treatment."
         [[params.experience.list.items]]
         details = "Spearheading a team of software developers and bioinformaticians across multiple smaller projects within iCare."
@@ -214,7 +214,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 	[[params.experience.list]]
         title = "Data Scientist"
-        dates = "Aug 2021 - Present"
+        dates = "Aug 2021 - Nov 2022"
         company = "Indx.Ai"
         details = "Building a webapp that discovers/annotates rare mutations in cancer patients and provides an interactive UI for oncologists to track patients and discover appropriate treatments."
 
