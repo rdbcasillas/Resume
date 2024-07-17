@@ -205,18 +205,22 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Product Manager"
         dates = "Nov 2022 - Feb 2024"
         company = "Indx.Ai/OneCell Diagnostics"
-        details = "Building the iCare platform for oncologists to help them understand mutational profile of their patients and suggest appropriate therapy for cancer treatment."
+        details = "Built and managed the development of the iCare platform, enabling oncologists to understand the mutational profiles of their patients and suggest appropriate cancer therapies."
         [[params.experience.list.items]]
-        details = "Spearheading a team of software developers and bioinformaticians across multiple smaller projects within iCare."
+        details = "Gathered requirements from various stakeholders and translated them into appropriate user interfaces and pipelines."
         [[params.experience.list.items]]
-        details = "Designing interactive user interfaces and robust bioinformatics pipelines for flagship products like OncoDx and OncoPredikt."
+        details = "Led a team of software developers and bioinformaticians on various projects within iCare."
+        [[params.experience.list.items]]
+        details = "Designed interactive user interfaces and robust bioinformatics pipelines for flagship products such as OncoDx and OncoPredikt."
+        [[params.experience.list.items]]
+        details = "Oversaw and executed deployment activities, ensuring smooth transitions through all phases of the software development lifecycle (SDLC)."
 
 
 	[[params.experience.list]]
         title = "Data Scientist"
         dates = "Aug 2021 - Nov 2022"
         company = "Indx.Ai"
-        details = "Building a webapp that discovers/annotates rare mutations in cancer patients and provides an interactive UI for oncologists to track patients and discover appropriate treatments."
+        details = "Built a web app from scratch that identifies and annotates rare mutations in cancer patients, providing an interactive interface for oncologists to track patients and discover appropriate treatments."
 
         [[params.experience.list]]
         title = "Bioinformatician"
