@@ -201,6 +201,14 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.experience]
         enable = true
 
+    [[params.experience.list]]
+        title = "Co-founder, Portal"
+        dates = "Sep 2024 - Present"
+        company = "MetaRationality LLP"
+        details = "Building a community space that enables epistemic & emotional growth while inspiring impactful work on local & global catastrophic risks. </a>"
+        url = "https://insightgateway.netlify.app"
+        
+
 	[[params.experience.list]]
         title = "Product Manager"
         dates = "Nov 2022 - Feb 2024"
