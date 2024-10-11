@@ -202,7 +202,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
     [[params.experience.list]]
-        title = "Co-founder, Portal"
+        title = "Co-founder @ Portal"
         dates = "Sep 2024 - Present"
         company = "MetaRationality LLP"
         details = "Building a community space that enables epistemic & emotional growth while inspiring impactful work on local & global catastrophic risks. </a>"
