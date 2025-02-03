@@ -205,14 +205,14 @@ googleAnalytics = "UA-XXXXXXX-Y"
         dates = "Nov 2024 - Present"
         company = "Rational Resilience"
         details = "Built and lead a coaching practice that helps clients make better decisions and build resilience by blending practical problem-solving with emotional awareness."
-        url = "rationalresilience.org"
+        url = "https://rationalresilience.org"
 
     [[params.experience.list]]
         title = "Co-founder @ Portal"
         dates = "Sep 2024 - Present"
         company = "MetaRationality LLP"
         details = "Building a community space that enables epistemic & emotional growth while inspiring impactful work on local & global catastrophic risks. </a>"
-        url = "enterportal.netlify.app"
+        url = "https://enterportal.netlify.app"
         
 
 	[[params.experience.list]]
