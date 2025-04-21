@@ -296,7 +296,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         tagline = "Interactive visualizations to gain novel insights from time series NGS experiments on murine whole cortex"
 
         [[params.projects.list]]
-        title = "<a href='https://github.com/rdbcasillas/3dbrain'>3d mouse brain</a>"
+        title = "<a href='https://3dbrain.netlify.app'>3d mouse brain</a>"
         meta = "Open Source"
         tagline = "3d visualization and quantification of supra spinal neurons with projections to the cervical, thoracic and lumbar segments."
 
