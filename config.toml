@@ -199,6 +199,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.experience]
         enable = true
+        
+    [[params.experience.list]]
+    title = "Workshop Designer & Facilitator"
+    dates = "Aug 2025 - Present"
+    company = "Effective Altruism Infrastructure Fund & Effective Ventures"
+    details = "Running 12 hands-on workshops in Bangalore & Hyderabad to help people think clearer, make better decisions, and catch their biases."
+    url = "https://rationalityworkshops.com"
 
     [[params.experience.list]]
         title = "Founder & Coach @ Rational Resilience"
