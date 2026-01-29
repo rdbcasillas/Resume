@@ -130,16 +130,16 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.awards]
-        enable = false
+        enable = true
 
         [[params.awards.list]]
-        name = "Award Lorem Ipsum"
-        body = "Microsoft lorem ipsum"
-        date = "2019"
+        name = "<a href='https://www.youtube.com/watch?v=1RSSnqo2uzQ'>Planning Fallacy: Why We Underestimate Time and How to Fix It</a>"
+        body = "EAGX Delhi - Talk & Workshop"
+        date = "Dec 2025"
         [[params.awards.list]]
-        name = "Award Donec Sodales"
-        body = "Oracle Aenean"
-        date = "2017"
+        name = "Calibration & Cognitive Biases Workshop"
+        body = "EAGX Bangalore - Team quiz on famous psychology experiments, predicting subject behavior using confidence intervals to build calibration skills"
+        date = "Oct 2024"
 
 
 
@@ -188,7 +188,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = """From building healthcare technologies to exploring human development and systems change, I bring together rich technical exprience and understanding of human behavior, to tackle complex challenges. Over a decade in bioinformatics and software development has equipped me to lead teams, create data-driven solutions and build tools that drive breakthroughs in biomedical research. Recently, I've expanded my focus by founding initiatives that bridge analytical thinking with emotional intelligence - running a coaching practice at Rational Resilience and co-building Portal, a space for epistemic and personal growth. I combine systematic problem-solving with deep understanding of human factors to drive impact, whether through technology, coaching, or community building. Always eager to take on interesting challenges that leverage both technical and human development skills."""
+        text = """Over a decade in bioinformatics and software development, leading teams and building tools for biomedical research. Recently, I've shifted focus to teaching rationality - designing and facilitating workshops that help people think clearer, make better decisions, and recognize cognitive biases. I also co-founded Portal, a community space for epistemic and personal growth. Interested in work that combines technical problem-solving with understanding of human behavior."""
 
 
 
@@ -219,7 +219,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         dates = "Sep 2024 - Present"
         company = "MetaRationality LLP"
         details = "Building a community space that enables epistemic & emotional growth while inspiring impactful work on local & global catastrophic risks. </a>"
-        url = "https://enterportal.netlify.app"
+        url = "https://enterportal.org"
         
 
 	[[params.experience.list]]
