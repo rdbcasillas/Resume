@@ -135,7 +135,11 @@ a.resume-link {
 }
 
 .resume-profile-image {
-	max-width: 120px;
+	width: 120px;
+	height: 120px;
+	object-fit: cover;
+	object-position: top center;
+	border-radius: 50% !important;
 }
 
 .resume-intro {
