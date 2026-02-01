@@ -166,7 +166,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.interests]
-        enable = true
+        enable = false
 
         [[params.interests.list]]
         name = "Science Communication"
@@ -206,6 +206,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     company = "Effective Altruism Infrastructure Fund & Effective Ventures"
     details = "Running 12 hands-on workshops in Bangalore & Hyderabad to help people think clearer, make better decisions, and catch their biases."
     url = "https://rationalityworkshops.com"
+    logo = "/images/rationality-workshops-logo.png"
 
     [[params.experience.list]]
         title = "Founder & Coach @ Rational Resilience"
@@ -213,6 +214,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Rational Resilience"
         details = "Built and lead a coaching practice that helps clients make better decisions and build resilience by blending practical problem-solving with emotional awareness."
         url = "https://rationalresilience.org"
+        logo = "/images/rational-resilience-logo.png"
 
     [[params.experience.list]]
         title = "Co-founder @ Portal"
@@ -220,6 +222,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "MetaRationality LLP"
         details = "Building a community space that enables epistemic & emotional growth while inspiring impactful work on local & global catastrophic risks. </a>"
         url = "https://enterportal.org"
+        logo = "/images/portal-logo.png"
         
 
 	[[params.experience.list]]
@@ -370,6 +373,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
         icon = "fab fa-github-square"
         url = "//github.com/rdbcasillas"
         title = "rdbcasillas"
+        [[params.social.list]]
+        icon = "fas fa-blog"
+        url = "//rdbcasillas.github.io"
+        title = "Digital Garden (Archived)"
 #        [[params.social.list]]
 #        icon = "fab fa-linkedin"
 #        url = "//linkedin.com/in/username"

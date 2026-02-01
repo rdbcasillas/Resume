@@ -6,6 +6,7 @@
   <div class="item mb-3">
     <div class="item-heading row align-items-center mb-2">
       <h4 class="item-title col-12 col-md-6 col-lg-6 mb-2 mb-md-0">
+        {{ if .logo }}<img src="{{ .logo }}" alt="" style="height: 24px; width: 24px; object-fit: contain; margin-right: 8px; vertical-align: middle;">{{ end }}
         {{ if .url }}
         <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"
           >{{ .title }}</a
